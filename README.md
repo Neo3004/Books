@@ -1,6 +1,6 @@
 https://github.com/Neo3004/Books.git
 
-This are the source codes of the main screen and the deatiled view screen.
+This are the source codes of the main screen and the detailed view screen.
 ![3e30cf59-b1e6-486f-8b47-7dd9a7ee1877](https://github.com/user-attachments/assets/4a1521bc-6381-47b6-8c3c-deada99ce211)
 ![bfdafd57-672e-4f43-9f00-388101bed0d7](https://github.com/user-attachments/assets/e1aea8ad-ce85-4329-a32c-3075cfab44eb)
 ![7418cd6a-fb9f-4638-9380-bb58870f103d](https://github.com/user-attachments/assets/e636d2a3-b0b7-4f3d-905d-4bd9dd80a6b4)
@@ -12,4 +12,5 @@ This are the screenshots of the main screen
 ![a49106c9-fb2c-4571-8135-88458a5980ca](https://github.com/user-attachments/assets/ff24da8f-b1e9-45af-8743-076a530ffd23)
 
 
-This are the screenshots of the deatiled view screen
+This are the screenshots of the detailed view screen
+
